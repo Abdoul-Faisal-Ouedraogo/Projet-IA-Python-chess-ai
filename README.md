@@ -57,7 +57,7 @@ python-chess-ai-yt/
 ├── requirements.txt            # Dépendances Python
 ├── .gitignore                  # Fichiers ignorés par Git
 └── README.md                   # Documentation du projet
-
+```
 
 
 ---
