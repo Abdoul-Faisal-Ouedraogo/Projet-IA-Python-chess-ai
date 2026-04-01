@@ -77,10 +77,10 @@ python-chess-ai-yt/
 ## 🚀 Installation & Exécution
 
 ### 1️⃣ Cloner le dépôt
-
+```bash
 git clone https://github.com/Abdoul-Faisal-Ouedraogo/Projet-IA-Python-chess-ai.git
 cd Projet-IA-Python-chess-ai
-
+```
 ### 2️⃣ Créer un environnement virtuel (recommandé)
 ```bash
 python -m venv venv
