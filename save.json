@@ -1,0 +1,270 @@
+{
+    "current_player": "white",
+    "white_time": 7.006999999999962,
+    "black_time": 0.007,
+    "ai_enabled": true,
+    "ai_color": "black",
+    "ai_depth": 2,
+    "move_history": [
+        "c3",
+        "Kc6"
+    ],
+    "pieces": [
+        {
+            "type": "rook",
+            "color": "black",
+            "row": 0,
+            "col": 0,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "bishop",
+            "color": "black",
+            "row": 0,
+            "col": 2,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "queen",
+            "color": "black",
+            "row": 0,
+            "col": 3,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "king",
+            "color": "black",
+            "row": 0,
+            "col": 4,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "bishop",
+            "color": "black",
+            "row": 0,
+            "col": 5,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "knight",
+            "color": "black",
+            "row": 0,
+            "col": 6,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "rook",
+            "color": "black",
+            "row": 0,
+            "col": 7,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "pawn",
+            "color": "black",
+            "row": 1,
+            "col": 0,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "pawn",
+            "color": "black",
+            "row": 1,
+            "col": 1,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "pawn",
+            "color": "black",
+            "row": 1,
+            "col": 2,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "pawn",
+            "color": "black",
+            "row": 1,
+            "col": 3,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "pawn",
+            "color": "black",
+            "row": 1,
+            "col": 4,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "pawn",
+            "color": "black",
+            "row": 1,
+            "col": 5,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "pawn",
+            "color": "black",
+            "row": 1,
+            "col": 6,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "pawn",
+            "color": "black",
+            "row": 1,
+            "col": 7,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "knight",
+            "color": "black",
+            "row": 2,
+            "col": 2,
+            "moved": true,
+            "en_passant": false
+        },
+        {
+            "type": "pawn",
+            "color": "white",
+            "row": 5,
+            "col": 2,
+            "moved": true,
+            "en_passant": true
+        },
+        {
+            "type": "pawn",
+            "color": "white",
+            "row": 6,
+            "col": 0,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "pawn",
+            "color": "white",
+            "row": 6,
+            "col": 1,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "pawn",
+            "color": "white",
+            "row": 6,
+            "col": 3,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "pawn",
+            "color": "white",
+            "row": 6,
+            "col": 4,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "pawn",
+            "color": "white",
+            "row": 6,
+            "col": 5,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "pawn",
+            "color": "white",
+            "row": 6,
+            "col": 6,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "pawn",
+            "color": "white",
+            "row": 6,
+            "col": 7,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "rook",
+            "color": "white",
+            "row": 7,
+            "col": 0,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "knight",
+            "color": "white",
+            "row": 7,
+            "col": 1,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "bishop",
+            "color": "white",
+            "row": 7,
+            "col": 2,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "queen",
+            "color": "white",
+            "row": 7,
+            "col": 3,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "king",
+            "color": "white",
+            "row": 7,
+            "col": 4,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "bishop",
+            "color": "white",
+            "row": 7,
+            "col": 5,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "knight",
+            "color": "white",
+            "row": 7,
+            "col": 6,
+            "moved": false,
+            "en_passant": false
+        },
+        {
+            "type": "rook",
+            "color": "white",
+            "row": 7,
+            "col": 7,
+            "moved": false,
+            "en_passant": false
+        }
+    ]
+}
