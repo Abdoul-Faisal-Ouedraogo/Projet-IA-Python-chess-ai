@@ -9,6 +9,7 @@ Ce projet a été développé pour proposer une expérience d’échecs jouable 
 
 Voici l’architecture complète du projet, avec le rôle de chaque dossier et fichier :
 
+```text
 python-chess-ai-yt/
 │
 ├── assets/                     # Ressources graphiques et sonores
@@ -49,13 +50,14 @@ python-chess-ai-yt/
 │   │   ├── save.py             # Sauvegarde de partie
 │   │   └── load.py             # Chargement de partie
 │   │
-│   ├── main.py                 # Point d’entrée principal du jeu
-│   └── game.py                 # Gestion globale d’une partie
+│   ├── game.py                 # Gestion globale d’une partie
+│   └── main.py                 # Point d’entrée principal du jeu
 │
 ├── save.json                   # Exemple de fichier de sauvegarde
-├── .gitignore                  # Fichiers ignorés par Git
 ├── requirements.txt            # Dépendances Python
+├── .gitignore                  # Fichiers ignorés par Git
 └── README.md                   # Documentation du projet
+
 
 
 ---
