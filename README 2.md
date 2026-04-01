@@ -7,12 +7,3 @@ Il faut que tu soit à la racine du dossier, et je tape le code suivant:
 -- 
 -- Ensuitre : python -m src.gui.app
 
-venv/
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.env
-.DS_Store
-.idea/
-.vscode/
