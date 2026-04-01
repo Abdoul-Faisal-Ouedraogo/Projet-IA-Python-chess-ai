@@ -78,12 +78,11 @@ python-chess-ai-yt/
 
 ### 1️⃣ Cloner le dépôt
 
-```bash
 git clone https://github.com/Abdoul-Faisal-Ouedraogo/Projet-IA-Python-chess-ai.git
 cd Projet-IA-Python-chess-ai
 
 ### 2️⃣ Créer un environnement virtuel (recommandé)
-```bash
+
 python -m venv venv
 
 Activer l’environnement :
@@ -93,13 +92,14 @@ Windows : venv\Scripts\activate
 Linux / Mac : source venv/bin/activate
 
 ### 3️⃣ Installer les dépendances
-```bash
+
 pip install -r requirements.txt
 
 ### 4️⃣ Lancer le jeu
 ```bash
 python src/main.py
 
+```
 # Game Snapshots
 
 ## Snapshot 1 - Start (green)
