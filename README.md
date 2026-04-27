@@ -101,7 +101,7 @@ pip install -r requirements.txt
 ```
 ### 4️⃣ Lancer le jeu
 ```bash
-python src/main.py
+python -m src.gui.app
 
 ```
 # Game Snapshots
